@@ -1,6 +1,8 @@
 ---
 permalink: /
-title: "Yao Xu: true
+title: "Yao Xu"
+excerpt: "About Me"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
